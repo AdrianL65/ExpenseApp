@@ -1,2 +1,2 @@
 # ExpenseApp
-React Native App to replace shitty Google Appsheet version
+Flutter App to replace shitty Google Appsheet version
